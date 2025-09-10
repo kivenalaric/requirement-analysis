@@ -69,5 +69,34 @@ Non-functional requirements describe **how the system should perform** rather th
 - Response time for searching available bookings should not exceed **2 seconds**.  
 - The system should provide **99.9% uptime** to ensure availability.  
 - All sensitive data (user details, payment information) must be **encrypted** both in transit and at rest.  
-- The interface should be responsive and accessible on desktops, tablets, and mobile devices.  
+- The interface should be responsive and accessible on desktops, tablets, and mobile devices.
+
+## Use Case Diagrams  
+
+A **Use Case Diagram** is a visual representation of the interactions between system users (actors) and the functions (use cases) that the system provides. It shows **who** uses the system and **what** they can do, helping stakeholders and developers quickly understand system boundaries and functionalities.  
+
+### Benefits of Use Case Diagrams  
+- **Clarity:** Provides a simple and visual way to capture system functionality.  
+- **Communication:** Bridges the gap between technical teams and non-technical stakeholders.  
+- **Scope Definition:** Helps define the system’s boundaries and what will (and won’t) be included.  
+- **Requirement Validation:** Ensures all user interactions are identified and addressed.  
+
+### Booking Management System Use Case Diagram  
+
+Actors:  
+- **Customer** (makes bookings, manages bookings, makes payments)  
+- **Administrator** (manages resources, oversees bookings, generates reports)  
+- **Payment Gateway** (handles transactions)  
+
+Use Cases:  
+- Search availability  
+- Create booking  
+- Update/cancel booking  
+- Make payment  
+- Send confirmation  
+- Manage resources  
+- Generate reports  
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)  
+
 
