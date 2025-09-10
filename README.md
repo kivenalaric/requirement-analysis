@@ -25,3 +25,23 @@ During this phase, developers, analysts, and stakeholders work together to clear
 
 In short, Requirement Analysis is about asking the right questions, documenting precise answers, and ensuring that the system being built is the **right solution to the right problem**.  
 
+## Key Activities in Requirement Analysis  
+
+Requirement Analysis is not a single step but a series of structured activities that ensure project requirements are accurate, complete, and well understood. The five key activities are:  
+
+- **Requirement Gathering**  
+  Collecting raw information about the project from stakeholders, users, and existing documentation. This step focuses on identifying what the system should achieve.  
+
+- **Requirement Elicitation**  
+  Engaging stakeholders through techniques like interviews, surveys, brainstorming, workshops, or observation to uncover deeper needs, hidden expectations, and constraints.  
+
+- **Requirement Documentation**  
+  Organizing and recording the gathered requirements in a clear and structured way, usually in the form of Software Requirement Specification (SRS) documents, user stories, or use cases.  
+
+- **Requirement Analysis and Modeling**  
+  Examining requirements to identify conflicts, priorities, and dependencies. This often includes creating diagrams (like use case diagrams or data flow diagrams) to model how the system will function.  
+
+- **Requirement Validation**  
+  Ensuring that the documented requirements are correct, complete, and aligned with stakeholder needs. This step often involves reviews, walkthroughs, or prototyping to confirm accuracy before development begins.  
+
+
