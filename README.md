@@ -9,3 +9,19 @@ The purpose of this repository is to:
 - Define acceptance criteria to align with business and user needs.  
 
 This serves as the foundation for building robust, scalable, and user-focused software systems. 
+
+## What is Requirement Analysis?  
+
+Requirement Analysis is the process of identifying, gathering, and documenting the needs and expectations of stakeholders for a software system. It is one of the most critical phases in the **Software Development Life Cycle (SDLC)** because it lays the foundation for the entire project.  
+
+During this phase, developers, analysts, and stakeholders work together to clearly define **what the system should do** (functional requirements) and **how it should perform** (non-functional requirements).  
+
+### Importance in the SDLC:
+- **Clarity of Goals:** Ensures everyone involved shares the same understanding of the system’s objectives.  
+- **Minimizes Errors:** Detects ambiguities, inconsistencies, and gaps early, reducing costly changes later.  
+- **Guides Design & Development:** Acts as a blueprint that shapes the architecture, design, and coding of the system.  
+- **Facilitates Communication:** Serves as a bridge between stakeholders and developers, making expectations explicit.  
+- **Ensures Quality & Alignment:** Establishes measurable acceptance criteria to confirm the final product meets business and user needs.  
+
+In short, Requirement Analysis is about asking the right questions, documenting precise answers, and ensuring that the system being built is the **right solution to the right problem**.  
+
