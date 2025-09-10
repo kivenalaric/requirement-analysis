@@ -117,3 +117,26 @@ Use Cases:
 
 ![Booking System Use Case Diagram](./alx-booking-uc.png)  
 
+
+## Acceptance Criteria  
+
+**Acceptance Criteria** are the predefined conditions that a software feature must meet to be accepted as complete by stakeholders or end-users. They serve as a checklist to confirm that requirements have been implemented correctly and that the system behaves as expected.  
+
+### Importance of Acceptance Criteria  
+- **Clarity:** Provides a shared understanding of what "done" means for a feature.  
+- **Validation:** Ensures that each requirement is testable and can be verified.  
+- **Alignment:** Keeps developers, testers, and stakeholders aligned on expectations.  
+- **Quality Assurance:** Reduces ambiguity and miscommunication by setting measurable outcomes.  
+
+### Example: Checkout Feature (Booking Management System)  
+
+**Feature:** Checkout process for booking payment  
+
+**Acceptance Criteria:**  
+- The user must be able to review their booking details (date, time, resource, cost) before payment.  
+- The system must support multiple payment options (e.g., credit card, PayPal).  
+- Payment must be securely processed via the external payment gateway.  
+- A confirmation message and receipt must be displayed immediately after successful payment.  
+- The system must send a confirmation email or SMS to the user after payment is completed.  
+- If payment fails, the user must see an error message and have the option to retry.  
+
