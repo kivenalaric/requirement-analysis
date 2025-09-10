@@ -45,3 +45,29 @@ Requirement Analysis is not a single step but a series of structured activities 
   Ensuring that the documented requirements are correct, complete, and aligned with stakeholder needs. This step often involves reviews, walkthroughs, or prototyping to confirm accuracy before development begins.  
 
 
+## Types of Requirements  
+
+In Requirement Analysis, requirements are broadly classified into two categories: **Functional** and **Non-functional**. Both are essential to ensure that the system meets business goals and user expectations.  
+
+### Functional Requirements  
+
+Functional requirements describe **what the system should do**. They define the features, functions, and operations that the system must perform to meet user needs.  
+
+**Examples for a Booking Management System:**  
+- Users should be able to create, update, and cancel bookings.  
+- The system should allow customers to search for available booking slots by date and time.  
+- An administrator should be able to manage resources (e.g., rooms, vehicles, or services) linked to bookings.  
+- The system should send confirmation emails or SMS notifications after a booking is made.  
+- Users should be able to make payments securely through integrated payment gateways.  
+
+### Non-functional Requirements  
+
+Non-functional requirements describe **how the system should perform** rather than what it should do. They define quality attributes, constraints, and overall system behavior.  
+
+**Examples for a Booking Management System:**  
+- The system should handle at least **500 concurrent users** without performance degradation.  
+- Response time for searching available bookings should not exceed **2 seconds**.  
+- The system should provide **99.9% uptime** to ensure availability.  
+- All sensitive data (user details, payment information) must be **encrypted** both in transit and at rest.  
+- The interface should be responsive and accessible on desktops, tablets, and mobile devices.  
+
